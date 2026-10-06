@@ -17,7 +17,7 @@ title: 지원
 
 ## 문의
 
-- 앱의 「오류 신고·피드백 보내기」 화면에서 보낼 수 있습니다.
+- 앱의 「문의 · 피드백」 화면에서 보낼 수 있습니다.
 - 메일: calla20032@naver.com
 
 [개인정보처리방침](../privacy/) · [Privacy Policy](../en/privacy/)
@@ -28,4 +28,4 @@ title: 지원
 
 - Add the keyboard in Settings > General > Keyboard > Keyboards > Add New Keyboard > 도각도각 (Dogak Dogak).
 - Full Access is needed only for key haptics; sounds and typing work without it.
-- Contact: in-app "Send Feedback" screen, or calla20032@naver.com
+- Contact: in-app "Contact & Feedback" screen, or calla20032@naver.com

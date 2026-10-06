@@ -28,13 +28,13 @@ Your selected sound and keyboard theme, the haptics toggle, the last-used layout
 
 ## 4. Feedback you send to the developer (only when you choose to)
 
-On the in-app "Report a problem / Send feedback" screen, **only when you tap Send**, the following is delivered to the developer's Slack channel. Nothing is sent otherwise.
+On the in-app "Contact & Feedback" screen, **only when you tap Send**, the following is delivered to the developer's Slack channel. Nothing is sent otherwise.
 
 - The feedback text you wrote and its type (bug report, suggestion, other)
-- (Optional) a reply email address; leave it empty to send anonymously
+- (Optional) a reply email address; leave it empty to send without a name or email
 - (Can be turned off) diagnostics: app version and build, iOS version, device model identifier, selected sound and theme, haptics setting
 
-This is used only to read and reply to your message and to fix bugs. It is not used for advertising or tracking and is not shared with third parties, other than the Slack processing described in section 5. Retention: 1 year after your inquiry is resolved (we delete the Slack message within 1 year after replying to you or finishing the fix). To request deletion, email calla20032@naver.com.
+This is used only to read and reply to your message and to fix bugs. It is not used for advertising or tracking and is not shared with third parties, other than the Slack processing described in section 5. Retention: 1 year after your inquiry is resolved, and no longer than 2 years after we receive it (we delete the Slack message within 1 year after replying to you or finishing the fix, and within 2 years of receipt even if it was never resolved). To request deletion, email calla20032@naver.com.
 
 ## 5. Processing by Slack and transfer outside your country
 
@@ -46,7 +46,7 @@ The feedback in section 4 is delivered to the developer's Slack workspace when y
 - Data transferred: the feedback text and its type, the reply email address (only if you enter one), and diagnostics (if left on) - exactly the items listed in section 4.
 - When and how: sent over the network (HTTPS) when you tap Send.
 - Purpose: receiving and storing the Slack message so the developer can read and reply to your feedback and fix bugs.
-- Retention: 1 year after your inquiry is resolved (deleted within 1 year after we reply or finish the fix).
+- Retention: 1 year after your inquiry is resolved, and no longer than 2 years after receipt.
 - How to refuse and the effect: if you do not tap Send, nothing is transferred. You can also email calla20032@naver.com directly outside the app. Refusing has no effect on the app's other features. Feedback is sent from the app only through Slack; the app has no option to send by email.
 
 ## 6. What we do not collect, and the App Store privacy label
@@ -59,25 +59,31 @@ Beyond that, the app does not collect Advertising identifiers, location, contact
 
 - You may at any time request access to, correction of, deletion of, or suspension of processing of the feedback information you sent.
 - Exercise these rights by emailing calla20032@naver.com. We will act without undue delay and tell you the result. To verify it is you, we may ask about what you wrote (roughly when you sent it, part of the text, etc.).
-- If you sent feedback anonymously without a reply email, the developer cannot identify the sender and may be unable to process such a request.
+- If you sent feedback without a name or reply email, the developer cannot tell who sent it and may be unable to process such a request.
 
 ## 8. How and when data is destroyed
 
-- When: promptly once the retention period (1 year after your inquiry is resolved) ends, and also when you request deletion.
+- When: promptly once the retention period (1 year after your inquiry is resolved, and no longer than 2 years after receipt) ends, and also when you request deletion.
 - How: the message is deleted from the developer's Slack workspace, together with any copy the developer saved separately.
 
-## 9. Privacy officer
+## 9. Security measures and automatic collection
+
+- Feedback is transmitted encrypted over HTTPS.
+- The Slack workspace where feedback is stored is used only by the developer, and no one else is given access.
+- The app does not install or operate cookies or any other device that automatically collects personal information.
+
+## 10. Privacy officer
 
 - Name: Minju Kim (김민주)
 - Contact: calla20032@naver.com
 
 You may direct questions, complaints and remedy requests about personal information handling to the contact above.
 
-## 10. Changes to this policy
+## 11. Changes to this policy
 
 When this policy changes, the changes are posted on this page and the effective date at the top is updated. If a change to collected items or purposes is unfavorable to you, we will notify you in advance, for example through an in-app notice, before it takes effect.
 
-## 11. Contact
+## 12. Contact
 
 calla20032@naver.com
 
