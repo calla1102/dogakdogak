@@ -1,0 +1,8 @@
+# Jekyll 로컬 빌드 산출물
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# macOS
+.DS_Store
