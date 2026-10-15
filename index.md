@@ -9,3 +9,4 @@ title: 도각도각
 
 - [지원·문의](support/)
 - [개인정보처리방침](privacy/) · [Privacy Policy](en/privacy/)
+- [개인정보처리방침 (안드로이드)](android/privacy/)
