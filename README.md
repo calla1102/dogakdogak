@@ -1,6 +1,6 @@
 # 도각도각 공개 페이지
 
-기계식 키보드 타건음을 내는 iOS 커스텀 키보드 앱 **도각도각**(Dogak Dogak)의 개인정보처리방침과 지원 페이지입니다. GitHub Pages로 게시하며, App Store에 등록한 개인정보처리방침 URL과 지원 URL이 이 사이트를 가리킵니다.
+기계식 키보드 타건음을 내는 iOS 커스텀 키보드 앱 **도각도각**(Dogak Dogak)의 개인정보처리방침과 지원 페이지입니다. GitHub Pages로 게시하며, App Store에 등록한 개인정보처리방침 URL과 지원 URL, Google Play 에 등록한 안드로이드 처리방침 URL이 이 사이트를 가리킵니다.
 
 앱 소스 코드는 이 레포에 없습니다.
 
@@ -12,6 +12,7 @@
 | 지원·문의 | https://calla1102.github.io/dogakdogak/support/ | [`support.md`](support.md) |
 | 개인정보처리방침 | https://calla1102.github.io/dogakdogak/privacy/ | [`privacy.md`](privacy.md) |
 | Privacy Policy (English) | https://calla1102.github.io/dogakdogak/en/privacy/ | [`en/privacy.md`](en/privacy.md) |
+| 개인정보처리방침 (안드로이드) | https://calla1102.github.io/dogakdogak/android/privacy/ | [`android/privacy.md`](android/privacy.md) |
 
 ## 구조
 
